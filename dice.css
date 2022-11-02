@@ -1,0 +1,12 @@
+body{
+   text-align: center;
+    font-weight: bold;
+   font-size: 60px;
+   font-family: 'Courier New';
+   color: blue;
+}
+.butt2{
+     display: flex;
+    justify-content: center;
+
+}
